@@ -2,6 +2,8 @@
 <manifest>
 <remote name="sony" fetch="https://github.com/sonyxperiadev/" />
 
+<include name="local_manifests/floko/qcom.xml" />
+
 <remove-project name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" />
 <project path="vendor/qcom/opensource/data/ipacfg-mgr/sdm845" name="platform/hardware/qcom/sdm845/data/ipacfg-mgr" groups="qcom_sdm845" remote="aosp" />
 
