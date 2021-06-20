@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="floko-sodp" fetch="https://github.com/FlokoROM-SODP/" revision="lineage-18.1"/>
+  <!--msm8998-->
+  <remove-project name="device-sony-lilac" />
+  <project path="device/sony/lilac" name="android_device_sony_lilac" groups="device" remote="floko-sodp" />
+
+  <!--Custom-->
+  <project path="device/sony/customization" name="android_device_sony_customization" groups="device" remote="floko-sodp" revision="master" />
+</manifest>

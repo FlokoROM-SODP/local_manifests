@@ -40,4 +40,5 @@
 <project path="device/sony/edo" name="device-sony-edo" groups="device" remote="sony" revision="master" />
 <project path="device/sony/pdx203" name="device-sony-pdx203" groups="device" remote="sony" revision="master" />
 <project path="device/sony/pdx206" name="device-sony-pdx206" groups="device" remote="sony" revision="master" />
+<include name="local_manifests/floko/devices.xml" />
 </manifest>
