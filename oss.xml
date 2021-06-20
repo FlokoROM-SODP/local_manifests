@@ -16,4 +16,5 @@
 <project path="vendor/oss/repo_update" name="repo_update" groups="device" remote="sony" revision="master">
     <linkfile src="repo_update.sh" dest="repo_update.sh" />
 </project>
+<include name="local_manifests/floko/oss.xml" />
 </manifest>

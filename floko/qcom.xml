@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <!-- Use Sony's one -->
-  <remove-project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
-  <remove-project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
-  <remove-project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
-</manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Use Sony's one -->
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
+  <remove-project name="crdroidandroid/android_vendor_codeaurora_telephony"/>
+  <remove-project name="LineageOS/android_external_exfatprogs" />
+  <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
+  <remove-project name="LineageOS/android_hardware_qcom_bt" />
+  <remove-project name="crdroidandroid/android_hardware_qcom_audio" />
+  <remove-project name="crdroidandroid/android_hardware_qcom_display" />
+</manifest>
