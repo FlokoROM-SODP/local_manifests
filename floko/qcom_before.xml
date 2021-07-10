@@ -8,6 +8,7 @@
   <remove-project name="LineageOS/android_external_exfatprogs" />
   <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
   <remove-project name="LineageOS/android_hardware_qcom_bt" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" />
   <remove-project name="crdroidandroid/android_hardware_qcom_audio" />
   <remove-project name="crdroidandroid/android_hardware_qcom_display" />
 </manifest>
