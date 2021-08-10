@@ -5,6 +5,10 @@
   <remove-project name="device-sony-lilac" />
   <project path="device/sony/lilac" name="android_device_sony_lilac" groups="device" remote="floko-sodp" />
 
+  <!--sm8150-->
+  <remove-project name="device-sony-griffin" />
+  <project path="device/sony/griffin" name="android_device_sony_griffin" groups="device" remote="floko-sodp" />
+
   <!--Custom-->
   <project path="device/sony/customization" name="android_device_sony_customization" groups="device" remote="floko-sodp" revision="master" />
 </manifest>
