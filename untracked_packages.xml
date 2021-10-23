@@ -3,7 +3,7 @@
     <!-- Not building for cars... -->
     <remove-project name="platform/packages/apps/Car/Calendar" />
     <remove-project name="platform/packages/apps/Car/Cluster" />
-    <remove-project name="platform/packages/apps/Car/DebuggingRestrictionController" />
+    <!-- <remove-project name="platform/packages/apps/Car/DebuggingRestrictionController" /> -->
     <remove-project name="platform/packages/apps/Car/Dialer" />
     <remove-project name="platform/packages/apps/Car/Hvac" />
     <remove-project name="platform/packages/apps/Car/LatinIME" />
@@ -13,15 +13,15 @@
     <remove-project name="platform/packages/apps/Car/Media" />
     <remove-project name="platform/packages/apps/Car/Messenger" />
     <remove-project name="platform/packages/apps/Car/Notification" />
-    <remove-project name="platform/packages/apps/Car/Provision" />
+    <!-- <remove-project name="platform/packages/apps/Car/Provision" /> -->
     <remove-project name="platform/packages/apps/Car/Radio" />
 
     <!-- Used by cts tests -->
     <!-- <remove-project name="platform/packages/apps/Car/RotaryController" /> -->
     <remove-project name="LineageOS/android_packages_apps_Car_Settings" />
-    <remove-project name="platform/packages/apps/Car/SettingsIntelligence" />
-    <remove-project name="platform/packages/apps/Car/SystemUI" />
-    <remove-project name="platform/packages/apps/Car/SystemUpdater" />
+    <!-- <remove-project name="platform/packages/apps/Car/SettingsIntelligence" /> -->
+    <!-- <remove-project name="platform/packages/apps/Car/SystemUI" /> -->
+    <!-- <remove-project name="platform/packages/apps/Car/SystemUpdater" /> -->
     <!-- Various packages depend on carg-ui-lib: -->
     <!-- <remove-project name="platform/packages/apps/Car/libs" /> -->
     <remove-project name="platform/packages/apps/Car/tests" />
