@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="LineageOS/android_external_json-c" />
+  <remove-project name="LineageOS/android_vendor_codeaurora_telephony" />
+  <remove-project name="repo_update" />
+  <project path="vendor/oss/repo_update" name="repo_update" groups="device" remote="floko-sodp" >
+    <linkfile src="repo_update.sh" dest="repo_update.sh" />
+  </project>
+</manifest>

@@ -17,7 +17,7 @@
     <remove-project name="platform/packages/apps/Car/Radio" />
     <!-- Used by cts tests -->
     <!-- <remove-project name="platform/packages/apps/Car/RotaryController" /> -->
-    <remove-project name="platform/packages/apps/Car/Settings" />
+    <remove-project name="LineageOS/android_packages_apps_Car_Settings" />
     <remove-project name="platform/packages/apps/Car/SettingsIntelligence" />
     <remove-project name="platform/packages/apps/Car/SystemUI" />
     <remove-project name="platform/packages/apps/Car/SystemUpdater" />

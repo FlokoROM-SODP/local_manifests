@@ -43,4 +43,6 @@
 <project path="device/sony/sagami" name="device-sony-sagami" groups="device" remote="sony" revision="s-mr1" />
 <project path="device/sony/pdx214" name="device-sony-pdx214" groups="device" remote="sony" revision="s-mr1" />
 <project path="device/sony/pdx215" name="device-sony-pdx215" groups="device" remote="sony" revision="s-mr1" />
+
+<include name="local_manifests/lineage/devices.xml" />
 </manifest>

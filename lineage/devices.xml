@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="floko-sodp" fetch="https://github.com/FlokoROM-SODP/" revision="lineage-19.0"/>
+  <!--msm8998-->
+  <project path="device/sony/yoshino" name="android_device_sony_yoshino" groups="device" remote="floko-sodp" />
+  <project path="device/sony/lilac" name="android_device_sony_lilac" groups="device" remote="floko-sodp" />
+
+  <!--sm8150-->
+  <remove-project name="device-sony-griffin" />
+  <project path="device/sony/griffin" name="android_device_sony_griffin" groups="device" remote="floko-sodp" />
+
+  <!--Custom-->
+  <project path="device/sony/customization" name="android_device_sony_customization" groups="device" remote="floko-sodp" revision="master" />
+</manifest>
