@@ -4,6 +4,7 @@
     <remove-project name="LineageOS/android_hardware_qcom_audio" />
     <remove-project name="LineageOS/android_hardware_qcom_camera" />
     <remove-project name="LineageOS/android_hardware_qcom_data_ipacfg-mgr" />
+    <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
     <remove-project name="platform/hardware/qcom/display" />
     <remove-project name="platform/hardware/qcom/gps" />
     <remove-project name="platform/hardware/qcom/media" />
