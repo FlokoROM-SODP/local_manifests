@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="floko-sodp" fetch="https://github.com/FlokoROM-SODP/" revision="lineage-19.0"/>
+  <remove-project name="kernel-sony-msm-5.4-common" />
+  <!-- <remove-project name="kernel" /> -->
+  <!-- <project path="kernel/sony/msm-5.4/kernel" name="kernel" groups="device" remote="floko-sodp" revision="aosp/LA.UM.9.14.r1" /> -->
+</manifest>
