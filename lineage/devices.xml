@@ -9,6 +9,10 @@
   <remove-project name="device-sony-griffin" />
   <project path="device/sony/griffin" name="android_device_sony_griffin" groups="device" remote="lineage-sodp" />
 
+  <!--sm8450-->
+  <remove-project name="device-sony-pdx223" />
+  <project path="device/sony/pdx223" name="android_device_sony_pdx223" groups="device" remote="lineage-sodp" />  
+
   <!--Custom-->
   <project path="device/sony/customization" name="android_device_sony_customization" groups="device" remote="lineage-sodp" revision="master" />
 </manifest>
