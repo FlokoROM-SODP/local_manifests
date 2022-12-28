@@ -5,9 +5,9 @@
     <remove-project name="LineageOS/android_hardware_qcom_camera" />
     <remove-project name="LineageOS/android_hardware_qcom_data_ipacfg-mgr" />
     <!-- <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" /> -->
-    <remove-project name="platform/hardware/qcom/display" />
-    <remove-project name="platform/hardware/qcom/gps" />
-    <remove-project name="platform/hardware/qcom/media" />
+    <!-- <remove-project name="platform/hardware/qcom/display" /> -->
+    <!-- <remove-project name="platform/hardware/qcom/gps" /> -->
+    <!-- <remove-project name="platform/hardware/qcom/media" /> -->
     <!-- <remove-project name="platform/hardware/qcom/msm8x09" /> -->
     <!-- <remove-project name="platform/hardware/qcom/msm8960" /> -->
     <!-- <remove-project name="platform/hardware/qcom/msm8994" /> -->

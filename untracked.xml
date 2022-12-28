@@ -2,4 +2,6 @@
 <manifest>
     <remove-project name="platform/prebuilts/android-emulator" />
     <remove-project name="platform/prebuilts/qemu-kernel" />
+
+    <include name="local_manifests/lineage/untracked.xml" />
 </manifest>
