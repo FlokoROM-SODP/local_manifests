@@ -25,8 +25,8 @@
     <remove-project name="LineageOS/android_hardware_qcom_sm7250_display" />
     <remove-project name="platform/hardware/qcom/sm7250/gps" />
     <remove-project name="LineageOS/android_hardware_qcom_sm7250_media" />
-    <!-- <remove-project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" /> -->
-    <!-- <remove-project name="LineageOS/android_hardware_qcom_sm8150_display" /> -->
+    <remove-project name="LineageOS/android_hardware_qcom_sm8150_data_ipacfg-mgr" />
+    <remove-project name="LineageOS/android_hardware_qcom_sm8150_display" />
     <remove-project name="platform/hardware/qcom/sm8150/gps" />
     <remove-project name="LineageOS/android_hardware_qcom_sm8150_media" />
     <remove-project name="platform/hardware/qcom/sm8150/thermal" />
