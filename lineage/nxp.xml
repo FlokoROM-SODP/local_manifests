@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="lineage-sodp" fetch="https://github.com/LineageOS-SODP/" revision="lineage-20.0"/>
+
+  <remove-project name="vendor-nxp" />
+  <project path="vendor/nxp" name="android_vendor_nxp" groups="device" remote="lineage-sodp" />
+</manifest>

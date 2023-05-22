@@ -3,4 +3,6 @@
 <remote name="NXP" fetch="https://github.com/NXP/" />
 <project path="vendor/nxp/" name="vendor-nxp" groups="device" remote="sony" revision="master" />
 <project path="vendor/nxp/NXPNFCC_FW" name="nfc-NXPNFCC_FW" groups="device" remote="NXP" revision="master" />
+
+<include name="local_manifests/lineage/nxp.xml" />
 </manifest>
