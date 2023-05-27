@@ -3,4 +3,6 @@
   <remove-project name="hardware-qcom-wlan" />
   <remove-project name="vendor-qcom-opensource-interfaces" />
   <project path="vendor/qcom/opensource/interfaces" name="LineageOS/android_vendor_qcom_opensource_interfaces" groups="qcom,pdk-qcom" remote="github" />
+  <remove-project name="vendor-qcom-opensource-gpt-utils" />
+  <project path="vendor/qcom/opensource/gpt-utils" name="android_vendor_qcom_opensource_gpt-utils" groups="device" remote="lineage-sodp" />
 </manifest>
