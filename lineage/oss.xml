@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="lineage-sodp" fetch="https://github.com/LineageOS-SODP/" revision="lineage-20.0"/>
   <remove-project name="LineageOS/android_external_json-c" />
   <remove-project name="LineageOS/android_vendor_codeaurora_telephony" />
+  <remove-project name="vendor-sony-oss-fingerprint" />
+  <project path="vendor/oss/fingerprint"  name="android_vendor_sony_oss_fingerprint" groups="device" remote="lineage-sodp" revision="master" />
   <remove-project name="repo_update" />
   <project path="vendor/oss/repo_update" name="repo_update" groups="device" remote="lineage-sodp" >
     <linkfile src="repo_update.sh" dest="repo_update.sh" />
