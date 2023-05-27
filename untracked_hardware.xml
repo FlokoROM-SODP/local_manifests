@@ -17,19 +17,19 @@
     <!-- <remove-project name="platform/hardware/qcom/msm8x84" /> -->
     <remove-project name="platform/hardware/qcom/sdm845/bt" />
     <remove-project name="LineageOS/android_hardware_qcom_sdm845_display" />
-    <remove-project name="platform/hardware/qcom/sdm845/gps" />
+    <remove-project name="LineageOS/android_hardware_qcom_sdm845_gps" />
     <remove-project name="LineageOS/android_hardware_qcom_sdm845_media" />
     <remove-project name="platform/hardware/qcom/sdm845/thermal" />
     <remove-project name="platform/hardware/qcom/sdm845/vr" />
-    <remove-project name="platform/hardware/qcom/sm7150/gps" />
+    <!-- <remove-project name="LineageOS/android_hardware_qcom_sm7150_gps" /> -->
     <remove-project name="LineageOS/android_hardware_qcom_sm7250_display" />
-    <remove-project name="platform/hardware/qcom/sm7250/gps" />
+    <remove-project name="LineageOS/android_hardware_qcom_sm7250_gps" />
     <remove-project name="LineageOS/android_hardware_qcom_sm7250_media" />
     <remove-project name="LineageOS/android_hardware_qcom_sm8150_data_ipacfg-mgr" />
     <remove-project name="LineageOS/android_hardware_qcom_sm8150_display" />
-    <remove-project name="platform/hardware/qcom/sm8150/gps" />
+    <remove-project name="LineageOS/android_hardware_qcom_sm8150_gps" />
     <remove-project name="LineageOS/android_hardware_qcom_sm8150_media" />
     <remove-project name="platform/hardware/qcom/sm8150/thermal" />
     <remove-project name="platform/hardware/qcom/sm8150/vr" />
-    <remove-project name="platform/hardware/qcom/sm8150p/gps" />
+    <!-- <remove-project name="LineageOS/android_hardware_qcom_sm8150p_gps" /> -->
 </manifest>
