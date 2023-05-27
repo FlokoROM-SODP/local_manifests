@@ -10,6 +10,8 @@
   <project path="device/sony/griffin" name="android_device_sony_griffin" groups="device" remote="lineage-sodp" />
 
   <!--sm8450-->
+  <remove-project name="device-sony-nagara" />
+  <project path="device/sony/nagara" name="android_device_sony_nagara" groups="device" remote="lineage-sodp" />  
   <remove-project name="device-sony-pdx223" />
   <project path="device/sony/pdx223" name="android_device_sony_pdx223" groups="device" remote="lineage-sodp" />  
 

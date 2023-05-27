@@ -2,4 +2,6 @@
 <manifest>
   <remote name="lineage-sodp" fetch="https://github.com/LineageOS-SODP/" revision="lineage-20.0"/>
   <remove-project name="kernel-sony-msm-5.10-common" />
+  <remove-project name="kernel" path="kernel/sony/msm-5.10/kernel" />
+  <project path="kernel/sony/msm-5.10/kernel" name="kernel" groups="device" remote="lineage-sodp" revision="aosp/K.P.1.0.r1" />
 </manifest>
